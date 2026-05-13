@@ -1,6 +1,6 @@
 ---
-title: "Edouard Pignède"
-subtitle: "Postdoctoral Researcher at IRD"
+title: "Hasintsoa Ratefy"
+subtitle: "PhD candidate at the University"
 image: profile.jpg
 about:
   template: solana
