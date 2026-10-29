@@ -12,9 +12,9 @@ website:
   search: false
   navbar:
     right:
-      #- href: Pages/CV.md
-      #- href: Pages/Webinar.md
-      #- href: Pages/Workshop.md
+      - href: Pages/Experience.md
+      - href: Pages/Training.md
+      - href: Pages/Achievements.md
       #- href: Pages/Thesis.md 
       # - text: CV
       #   icon: file-pdf
