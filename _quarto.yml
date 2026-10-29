@@ -12,10 +12,10 @@ website:
   search: false
   navbar:
     right:
-      - href: Pages/Research.md
-      - href: Pages/Talks.md
-      - href: Pages/Teaching.md
-      - href: Pages/CV.md 
+      #- href: Pages/CV.md
+      #- href: Pages/Webinar.md
+      #- href: Pages/Workshop.md
+      #- href: Pages/Thesis.md 
       # - text: CV
       #   icon: file-pdf
       #   menu:
