@@ -57,8 +57,8 @@ Conducting surveys – Budget planning and management – Presenting survey resu
 
 **Founder and manager** \| KT MadaTana Company, Antananarivo Madagascar \| since 2022
 
-# *Download*
+# *Short CV*
 
-- [short cv (FR)](../files/CV_Edouard_Pignede.pdf)
+- [short cv (FR)](../files/Ratefy_Short_FR_CV.pdf)
 
-- [short cv (EN)](../files/CV_Edouard_Pignede.pdf)
+- [short cv (EN)](../files/Ratefy_Short_EN_CV.pdf)

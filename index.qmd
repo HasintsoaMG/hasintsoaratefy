@@ -30,7 +30,7 @@ about:
       aria-label: ORCID
 ---
 
-**PhD candidate** in economics, with expertise in *economic impacts of drought analysis and in drought resilience assessment in Sub-Saharan African countries, particularly Madagascar*. Enrolled at the Doctoral School of Social Sciences and Humanities (EDSHS) at the **University of Antananarivo**. Member of the Center for Economic Studies and Research for Development ([CERED](https://ue-madagascar.org/teams/691)) and the International Joint Unit for Sustainability and Resilience ([UMI SOURCE](https://www.umi-source.uvsq.fr/)). Experiences shaped by the start of researcher career, administration, youth leadership, training and education.
+**PhD candidate** in economics, with expertise in *economic impacts of drought analysis and in drought resilience assessment in Sub-Saharan African countries, particularly Madagascar*. Enrolled at the Doctoral School of Social Sciences and Humanities (EDSHS) at the **University of Antananarivo**. Member of the Center for Economic Studies and Research for Development ([CERED](https://ue-madagascar.org/teams/691)) and the International Joint Unit for Sustainability and Resilience ([UMI SOURCE](https://www.umi-source.uvsq.fr/)). Experiences shaped by research, administration, youth leadership, training and education.
 
 ## Key skills
 
