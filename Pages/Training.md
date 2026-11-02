@@ -100,13 +100,13 @@ FMZ Madagascar \| 2026 - 2027 \| Positive parenting, positive leadership, and po
 
 MZARA SKILLS TOOLS AND ATTITUDE \| September 12, 2026 \| EXECUTION: from idea to action.
 
-CERED/IRD/Project BETSAKA \| August 10-19, 2026 \| Training in survey supervision and team management.
+CERED/IRD/BETSAKA Project \| August 10-19, 2026 \| Training in survey supervision and team management.
 
 ONE HOPE \| 2024 – 2025 \| Lead today - John C. Maxwell leadership
 
 KOLONTSAINA MAHAVELONA \| 2017 – 2024 \| Kingdom leadership
 
-ENTREPRENDRE A MADAGASCAR \| July 28, 2019 to August 2, 2019 \| Better manage your business (TRIE and CREATE)
+ENTREPRENDRE A MADAGASCAR \| July 28, 2019 to August 2, 2019 \| Better manage your business (TRIE and CREE)
 
 
 ### Youth and children education

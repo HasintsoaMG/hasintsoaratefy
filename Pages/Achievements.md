@@ -3,9 +3,9 @@ title: "Achievements"
 toc: true
 ---
 
-##  **Publishings**  
+## **Publishings**
 
-**Article**	
+**Article**
 
 RAFETY, B. (2026). LA PERCEPTION DE L’IA PAR LA POPULATION MALAGASY : CAS DE L’IMAGERIE MÉDICALE. *Médecine légale - Droit médical*, *69*(1-2), 026-028. <https://doi.org/10.54695/dsso.131.0026>
 
@@ -15,17 +15,21 @@ RAYEFY B. (2025) IMPACTS MACROÉCONOMIQUES DE LA SÉCHERESSE MÉTÉOROLOGIQUE A 
 
 **Research theses**
 
-RATEFY B. (2022) « Analyse des facteurs de vulnérabilités macroéconomiques de Madagascar » Master's Research Thesis in Economics and Development,  Theses and Dissertations, University of Antananarivo [download the thesis](../files/Mémoire_M2_Hasintsoa_RATEFY.pdf)
+RATEFY B. (2022) « Analyse des facteurs de vulnérabilités macroéconomiques de Madagascar » Master's Research Thesis in Economics and Development, Theses and Dissertations, University of Antananarivo [download the thesis](../files/Mémoire_M2_Hasintsoa_RATEFY.pdf)
 
-RATEFY B. (2018) « L'importance du secteur éducation pour le développement économique » Bachelor's Thesis in General Economics ,  Theses and Dissertations, University of Antananarivo [download the thesis](../files/Mémoire_L3_Hasintsoa_RATEFY.pdf)
+RATEFY B. (2018) « L'importance du secteur éducation pour le développement économique » Bachelor's Thesis in General Economics , Theses and Dissertations, University of Antananarivo [download the thesis](../files/Mémoire_L3_Hasintsoa_RATEFY.pdf)
 
-##  **Awards and Honors**
+**Research Report**
+
+RATEFY B. (2019) « Le transfert technologique et le développement : Comparaison entre l’économie de Madagascar et l’économie chinoise » Internship reports - DGD/DSC/SSAE, Antaninarenina, Antananarivo Madagascar. [download the report](../files/Rapport%20de%20recherche%20Douanes%20Hasintsoa%20RATEFY.pdf)
+
+## **Awards and Honors**
 
 MT180s Winner – JUMI 2025
 
 Co-winner Presentation Contest – JUMI 2025
 
-##  **Conferences & Presentations**
+## **Conferences & Presentations**
 
 JUMI 06/13/2026 - "Economic Impacts of Drought in Madagascar: Analysis Using Night Lights Data" \_ UMI SOURCE, France
 

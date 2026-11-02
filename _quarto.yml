@@ -15,14 +15,13 @@ website:
       - href: Pages/Experience.md
       - href: Pages/Training.md
       - href: Pages/Achievements.md
-      #- href: Pages/Thesis.md 
-      # - text: CV
-      #   icon: file-pdf
-      #   menu:
-      #   - text: English
-      #     href: docs/cv_christophe_gouel_en.pdf
-      #   - text: French
-      #     href: docs/cv_christophe_gouel_fr.pdf
+      - text: CV
+        icon: file-pdf
+        menu:
+          - text: English
+            href: ../files/EN%20CV%20Hasintsoa%20RATEFY%20nov%202026.pdf
+          - text: French
+            href: ../files/FR%20CV%20Hasintsoa%20RATEFY%20nov%202026.pdf
 
 format:
   html:

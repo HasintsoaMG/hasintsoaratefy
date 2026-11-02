@@ -21,7 +21,7 @@ CERED/IRD/AFD/KFW – BETSAKA project *Biodiversity-Economic Tradeoff and Synerg
 
 CPGU/Prime Minister's office & UNDP & CERED – PNRRC Platform *Plateforme Nationale de Réduction des Risques et Catastrophes* – 18 and 19/06/2024 – Ibis hotel Madagascar
 
-CPGU/Prime Minister's office & - GRMA Program *Global Risk Modelling Alliance* **–** 16 to 17 /05/2024 & 13/01/2026 -Radisson Blu hotel, Tanà Water Front
+CPGU/Prime Minister's office - GRMA Program *Global Risk Modelling Alliance* **–** 16 to 17 /05/2024 & 13/01/2026 -Radisson Blu hotel, Tanà Water Front
 
 FERDI & Ministry of Economy and Finance – ARCEB Project *Appui au Renforcement des Capacités d’Analyse des Facteurs de Vulnérabilité Structurelle et la Promotion de l’Economie Bleue* – 01/02/2021 to 04/02/2021- Ibis hotel Mdagascar
 
@@ -35,7 +35,7 @@ Topic of research : « Technology transfer and development: comparison of Mada
 
 **Project Assistant**\| IRD/CERED/[BETSAKA](https://betsaka.hypotheses.org/) Project, University of Antananarivo \| 2024 - 2027
 
-Conducting surveys – Budget planning and management – Presenting survey results locally – Human resources management: recruiting and monitoring field agents’ contracts – Content creation assistant – Event organization for workshops, conferences, and Survey results presentation – Administrative and logistical organization of surveys.
+Conducting surveys – Budget planning and management – Local report of survey results – Human resources management: recruiting and monitoring field agents’ contracts – Content creation assistant – Event organization for workshops, conferences, and Survey results presentation – Administrative and logistical organization of surveys.
 
 **Administrative Assistant** \| JFR Dental Clinic, Isoraka, Antananarivo Madagascar \| 2023 : Schedule manager - Head cashier - Stores and Supply Officer - Accounting Assistant.
 
@@ -47,15 +47,16 @@ Conducting surveys – Budget planning and management – Presenting survey resu
 
 **Seminar Co-organizer** \| 2025 – 2026 \| CERED, University of Antananarivo
 
-**Exam counting and monitoring officer** \| EGS FACULTY/ ECONOMICS – University of Antananarivo
+**Exam counting and monitoring officer** \|2024- 2025 \| EGS FACULTY/ ECONOMICS – University of Antananarivo
 
 **Fundraiser** \| 2400 sourires association, Ambohidratrimo, Antananarivo Madagascar \| 2024
-
-**Procurement Documentation Assistant** \| IFAD , Ankorahotra Antananarivo Madagascar \| 2021
 
 **Founder and manager** \| Safe.Educ Madagascar, Antananarivo Madagascar \| since 2022
 
 **Founder and manager** \| KT MadaTana Company, Antananarivo Madagascar \| since 2022
+
+**Procurement Documentation Assistant** \| IFAD , Ankorahotra Antananarivo Madagascar \| 2021
+
 
 # *Short CV*
 
