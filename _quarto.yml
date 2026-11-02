@@ -3,6 +3,8 @@ execute:
   
 project:
   type: website
+  resources:
+    - files/*.pdf
 
 website:
   favicon: favicon.ico
