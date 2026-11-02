@@ -19,9 +19,9 @@ website:
         icon: file-pdf
         menu:
           - text: English
-            href: ../files/EN%20CV%20Hasintsoa%20RATEFY%20nov%202026.pdf
+            href: files/EN_CV_Hasintsoa_RATEFY_nov_2026.pdf
           - text: French
-            href: ../files/FR%20CV%20Hasintsoa%20RATEFY%20nov%202026.pdf
+            href: files/FR_CV_Hasintsoa_RATEFY_nov_2026.pdf
 
 format:
   html:

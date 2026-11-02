@@ -21,7 +21,7 @@ RATEFY B. (2018) « L'importance du secteur éducation pour le développement �
 
 **Research Report**
 
-RATEFY B. (2019) « Le transfert technologique et le développement : Comparaison entre l’économie de Madagascar et l’économie chinoise » Internship reports - DGD/DSC/SSAE, Antaninarenina, Antananarivo Madagascar. [download the report](../files/Rapport%20de%20recherche%20Douanes%20Hasintsoa%20RATEFY.pdf)
+RATEFY B. (2019) « Le transfert technologique et le développement : Comparaison entre l’économie de Madagascar et l’économie chinoise » Internship reports - DGD/DSC/SSAE, Antaninarenina, Antananarivo Madagascar. [download the report](../files/Ratefy_reportDGD.pdf)
 
 ## **Awards and Honors**
 
