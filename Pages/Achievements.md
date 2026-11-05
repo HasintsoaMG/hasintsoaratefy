@@ -7,11 +7,11 @@ toc: true
 
 **Article**
 
-RAFETY, B. (2026). LA PERCEPTION DE L’IA PAR LA POPULATION MALAGASY : CAS DE L’IMAGERIE MÉDICALE. *Médecine légale - Droit médical*, *69*(1-2), 026-028. <https://doi.org/10.54695/dsso.131.0026>
+RATEFY, B. (2026). LA PERCEPTION DE L’IA PAR LA POPULATION MALAGASY : CAS DE L’IMAGERIE MÉDICALE. *Médecine légale - Droit médical*, *69*(1-2), 026-028. <https://doi.org/10.54695/dsso.131.0026>
 
 **Poster**
 
-RAYEFY B. (2025) IMPACTS MACROÉCONOMIQUES DE LA SÉCHERESSE MÉTÉOROLOGIQUE A MADAGASCAR [Les Journées Scientifiques UMI SOURCE 2025 - UMI-SOURCE](https://www.umi-source.uvsq.fr/les-journees-scientifique-umi-source-2025) - [view the poster](../files/Poster_Hasintsoa_JUMI_2025.pdf)
+RATEFY B. (2025) IMPACTS MACROÉCONOMIQUES DE LA SÉCHERESSE MÉTÉOROLOGIQUE A MADAGASCAR [Les Journées Scientifiques UMI SOURCE 2025 - UMI-SOURCE](https://www.umi-source.uvsq.fr/les-journees-scientifique-umi-source-2025) - [view the poster](../files/Poster_Hasintsoa_JUMI_2025.pdf)
 
 **Research theses**
 

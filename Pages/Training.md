@@ -67,6 +67,8 @@ h4 {
 
 ### Disaster Risk Management
 
+UNDRR webinar \| November 3, 2026 \| What do droughts really cost ? Understanding impacts and losses on the economy, Global food systems and wellbeing.
+
 UNDRR webinar \| May 14, 2026 \| Advancing Heat Risk Governance and Action: Responding to the UN Secretary-General’s Call to Action on Extreme Heat.
 
 UNDRR GETI/ UNOSSC/ PAHO/ UNTB webinar \| April 29, 2026 \| Leveraging Technological Innovation, Evidence-Based Decision-Making and South-South Cooperation to Address Systemic Urban Risk and Strengthen Disaster Resilience.
@@ -75,9 +77,9 @@ CERED/ PNUD/ CPGU/ PNRRC \| June 18-19, 2024 \| RRC, Resilience and Development:
 
 Arise/ UNDRR/ MCR2030 \| September 6, 2023 \| Introduction to the Scorecard Action Guide: Prioritization of DRR Actions.
 
-
-
 ### Research and data analysis
+
+CERED & UMI SOURCE / PSF Créons \| November 4, 2026 \| Zotero for an open, collaborative, and reproducible bibliography
 
 CERED \| April-May 2026 \| Research Reproducibility : Github, R, Latex.
 
@@ -93,7 +95,6 @@ CERED/CIGA \| August 10-14, 2023 \| Data Analysis in SPHINKS
 
 EGS Faculty/ Economics Department & Aix-Marseille University \| May 16-19, 2022 \| Macroeconomics and International Economics
 
-
 ### Leadership and Management
 
 FMZ Madagascar \| 2026 - 2027 \| Positive parenting, positive leadership, and positive entrepreneurship. First and second year.
@@ -108,7 +109,6 @@ KOLONTSAINA MAHAVELONA \| 2017 – 2024 \| Kingdom leadership
 
 ENTREPRENDRE A MADAGASCAR \| July 28, 2019 to August 2, 2019 \| Better manage your business (TRIE and CREE)
 
-
 ### Youth and children education
 
 ADRA France/FIRST AID \| November 22-23, 2025 \| First aid training
@@ -119,12 +119,9 @@ ReadySetGo/ Grain de blé Madagascar/ Global Facilitators Festivals \| October 3
 
 ADRA France/ Give Hands \| October 6, 2018 \| BAJE – Youth and Children Animation Aptitude Certificate
 
-
 ### Other
 
 MINISTRY OF PUBLIC HEALTH/ JFR Dental Clinic \| April 18, 2023 \| Assisting the dentist in implant practice.
-
-
 
 ## Academic background
 
